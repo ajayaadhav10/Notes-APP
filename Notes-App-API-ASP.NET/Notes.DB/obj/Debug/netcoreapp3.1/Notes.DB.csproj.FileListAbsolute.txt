@@ -1,0 +1,38 @@
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.deps.json
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csprojAssemblyReference.cache
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfoInputs.cache
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfo.cs
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.json
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.dev.json
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csproj.CoreCompileInputs.cache
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\asiel\Documents\gitlab\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.genruntimeconfig.cache
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.deps.json
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.json
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.dev.json
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csproj.AssemblyReference.cache
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfoInputs.cache
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfo.cs
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csproj.CoreCompileInputs.cache
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\Ajay.Aadhavvv\Downloads\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.genruntimeconfig.cache
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.deps.json
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.json
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.dev.json
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csproj.AssemblyReference.cache
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfoInputs.cache
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfo.cs
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csproj.CoreCompileInputs.cache
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\Ajay.Aadhavvv\Documents\My Web Sites\React\notes.webapi-master\notes.webapi-master\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.genruntimeconfig.cache
